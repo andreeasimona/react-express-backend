@@ -1,0 +1,19 @@
+{
+  "name": "react-express-backend",
+  "version": "1.0.0",
+  "description": "Configuration for a project that use Frontend - react and Backend - Express \r The front end is created with create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreeasimona/react-express-backend.git"
+  },
+  "author": "Simo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreeasimona/react-express-backend/issues"
+  },
+  "homepage": "https://github.com/andreeasimona/react-express-backend#readme"
+}
